@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="5by5-Matrizes/5by5-Matrizes.csproj" />
+  <Project Path="Ex1-ImprimirMatrizes/Ex1-ImprimirMatrizes.csproj" />
+  <Project Path="Ex2-GerarMatrizInversa/Ex2-GerarMatrizInversa.csproj" />
+  <Project Path="Ex3-InvertendoLinhaEColuna/Ex3-InvertendoLinhaEColuna.csproj" />
+</Solution>
